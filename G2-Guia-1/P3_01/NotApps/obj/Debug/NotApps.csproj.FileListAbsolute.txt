@@ -1,0 +1,7 @@
+C:\Users\ESTUDIANTES\Desktop\johnp\P3_01\NotApps\bin\Debug\NotApps.exe.config
+C:\Users\ESTUDIANTES\Desktop\johnp\P3_01\NotApps\bin\Debug\NotApps.exe
+C:\Users\ESTUDIANTES\Desktop\johnp\P3_01\NotApps\bin\Debug\NotApps.pdb
+C:\Users\ESTUDIANTES\Desktop\johnp\P3_01\NotApps\obj\Debug\NotApps.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\johnp\P3_01\NotApps\obj\Debug\NotApps.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\johnp\P3_01\NotApps\obj\Debug\NotApps.exe
+C:\Users\ESTUDIANTES\Desktop\johnp\P3_01\NotApps\obj\Debug\NotApps.pdb

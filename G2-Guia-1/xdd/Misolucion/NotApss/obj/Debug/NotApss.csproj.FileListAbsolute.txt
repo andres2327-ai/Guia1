@@ -1,0 +1,7 @@
+C:\Users\Andres\Desktop\p3\G2-Guia-1\xdd\Misolucion\NotApss\obj\Debug\NotApss.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\p3\G2-Guia-1\xdd\Misolucion\NotApss\obj\Debug\NotApss.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\p3\G2-Guia-1\xdd\Misolucion\NotApss\bin\Debug\NotApss.exe.config
+C:\Users\Andres\Desktop\p3\G2-Guia-1\xdd\Misolucion\NotApss\bin\Debug\NotApss.exe
+C:\Users\Andres\Desktop\p3\G2-Guia-1\xdd\Misolucion\NotApss\bin\Debug\NotApss.pdb
+C:\Users\Andres\Desktop\p3\G2-Guia-1\xdd\Misolucion\NotApss\obj\Debug\NotApss.exe
+C:\Users\Andres\Desktop\p3\G2-Guia-1\xdd\Misolucion\NotApss\obj\Debug\NotApss.pdb

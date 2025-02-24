@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTES\Desktop\johnp\G2-Guia-1\Guia1\bin\Debug\Guia1.exe.config
+C:\Users\ESTUDIANTES\Desktop\johnp\G2-Guia-1\Guia1\bin\Debug\Guia1.exe
+C:\Users\ESTUDIANTES\Desktop\johnp\G2-Guia-1\Guia1\bin\Debug\Guia1.pdb
+C:\Users\ESTUDIANTES\Desktop\johnp\G2-Guia-1\Guia1\obj\Debug\Guia1.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\johnp\G2-Guia-1\Guia1\obj\Debug\Guia1.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\johnp\G2-Guia-1\Guia1\obj\Debug\Guia1.exe
+C:\Users\ESTUDIANTES\Desktop\johnp\G2-Guia-1\Guia1\obj\Debug\Guia1.pdb
+C:\Users\Andres\Desktop\p3\G2-Guia-1\G2-Guia-1\Guia1\obj\Debug\Guia1.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\p3\G2-Guia-1\G2-Guia-1\Guia1\obj\Debug\Guia1.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\p3\G2-Guia-1\G2-Guia-1\Guia1\obj\Debug\Guia1.exe
+C:\Users\Andres\Desktop\p3\G2-Guia-1\G2-Guia-1\Guia1\obj\Debug\Guia1.pdb
+C:\Users\Andres\Desktop\p3\G2-Guia-1\G2-Guia-1\Guia1\bin\Debug\Guia1.exe.config
+C:\Users\Andres\Desktop\p3\G2-Guia-1\G2-Guia-1\Guia1\bin\Debug\Guia1.exe
+C:\Users\Andres\Desktop\p3\G2-Guia-1\G2-Guia-1\Guia1\bin\Debug\Guia1.pdb
